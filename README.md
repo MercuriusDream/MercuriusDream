@@ -21,4 +21,4 @@
 - tjddntjr1@gmail.com
 - tjddntjr1@chungbuk.ac.kr
 
-<img src="https://komarev.com/ghpvc/?username=MercuriusDream&style=flat-square&color=blueviolet" alt="Profile views">
+<br><img src="https://komarev.com/ghpvc/?username=MercuriusDream&style=flat-square&color=blueviolet" alt="Profile views">
