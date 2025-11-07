@@ -14,8 +14,6 @@
   - C
   - C++
   - Python 3
-  - Network Packet Monitoring
-  - Black-Box Server-Client Structure Reverse Engineering
 - Field of Interest
   - Black-Box Reverse Engineering
   - Network Analysis
