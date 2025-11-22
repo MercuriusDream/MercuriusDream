@@ -18,7 +18,6 @@
   - Black-Box Reverse Engineering
   - Network Analysis
   - Semi-Embedded Programming
-- $\it{\color{#DD6565}【향정신성의약품】}$
 
 ## Contact
 
