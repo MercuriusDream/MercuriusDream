@@ -11,13 +11,21 @@
   - English
   - Japanese
 - Tech Stack
-  - C
-  - C++
+  - C99 / C11 / C17
+  - C++03 / C++11
   - Python 3
+    - Pyside / PyQt
+  - LLM
+    - Prompt Engineering
+    - Red-Teaming
+  - Network Packet Monitoring
+  - Black-Box Reverse Engineering
+  - API Security Engineering
 - Field of Interest
   - Black-Box Reverse Engineering
   - Network Analysis
   - Semi-Embedded Programming
+  - Document Writing
 
 ## Contact
 
