@@ -4,6 +4,7 @@
 
 ## About
 
+- **OpenAI & Naver Security Vulnerability Researcher (Acknowledged/Disclosed)**
 - Republic of Korea (UTC+9)
 - CBNU Computer Science
 - Languages
