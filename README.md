@@ -1,34 +1,10 @@
 # MercuriusDream
 
-*Methylphenidate Hydrochloride Extended-Release Tablets Powered CS Student*
+*Methylphenidate Hydrochloride Extended-Release Tablets Powered CS Student on leave*
 
-## About
-
-- CBNU CS
-- Languages
-  - Korean
-  - English
-  - Japanese
-  - C99 / C11 / C17
-  - C++03 / C++11
-  - Python 3
-- Field of Interest
-  - LLM
-    - Prompt Engineering
-    - Red-Teaming
-  - Network Packet Monitoring
-  - Black-Box Reverse Engineering
-  - API Security Engineering
-  - Black-Box Reverse Engineering
-  - Network Analysis
-  - Semi-Embedded Programming
-  - Document Writing
-
-## Contact
-
-- tjddntjr1@gmail.com
-- tjddntjr1@chungbuk.ac.kr
+- https://mercuriusdream.com
 - mercuriusdream@mercuriusdream.com
+- tjddntjr1@chungbuk.ac.kr
 
 <br><img src="https://komarev.com/ghpvc/?username=MercuriusDream&style=flat-square&color=blueviolet" alt="Profile views">
 
